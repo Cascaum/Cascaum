@@ -18,7 +18,7 @@ Aspiring back-end developer, Python and Java enthusiast, and currently exploring
 
 - 🔭 **Current Focus:** Back-end development  
 - 🌱 **Learning:** Python and Java  
-- 🎓 **Education:** Bachelor's in Information Systems @ UNIFEBE (9th semester)  
+- 🎓 **Education:** Bachelor's in Information Systems in UNIFEBE University (9th semester)  
 - 💼 **Job:** Software Development  
 - 📫 **Contact:** rafael.araujo@unifebe.edu.br  
 - 😄 **Pronouns:** He/Him  
